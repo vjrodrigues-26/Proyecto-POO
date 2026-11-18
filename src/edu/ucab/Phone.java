@@ -1,4 +1,5 @@
 package edu.ucab;
 
-public class Phone {
+public class Phone extends Device {
+    private String serviceProvider;
 }
